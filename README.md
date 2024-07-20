@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **abilash0293@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1MHAKQFZ-8Ah-Zetrh-A4orI53Kaw-dutNoq4S9sNefY/edit?usp=sharing](https://docs.google.com/document/d/1MHAKQFZ-8Ah-Zetrh-A4orI53Kaw-dutNoq4S9sNefY/edit?usp=sharing)
+- 📄 Know about my experiences [View My Resume](https://docs.google.com/document/d/1MHAKQFZ-8Ah-Zetrh-A4orI53Kaw-dutNoq4S9sNefY/view)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
