@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm ABILASH</h1>
 <h3 align="center">A Passionate Full Stack Developer</h3>
 
-<img align="right" alt="coding" width="400" src="https://gifdb.com/gif/animated-man-computer-coding-nae6mec378lsg1i3.html?embed=true">
+<img align="right" alt="coding" width="400" src="https://gifdb.com/images/high/animated-man-computer-coding-nae6mec378lsg1i3.webp">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abilashravi02&label=Profile%20views&color=0e75b6&style=flat" alt="abilashravi02" /> </p>
 
